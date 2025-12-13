@@ -25,6 +25,8 @@
 }
 ```
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p52ngqt7ct6hj35cyk3ozmsati&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31p52ngqt7ct6hj35cyk3ozmsati&redirect=true)
+
 <h2>About me</h2>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=BountyInfinity&color=blue&label=Profile+Visitors" alt="BountyInfinity" /> 
@@ -36,8 +38,6 @@
   <img src="https://img.shields.io/badge/Knows-C++-/?logo=cplusplus&logoColor=blue&color=blue" alt="c++">
   <img src="https://img.shields.io/badge/Knows-Rust-/?logo=rust&logoColor=white&color=saddlebrown" alt="rust">
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BodhiLaughton&no-frame=trueno-bg=true&theme=matrix" alt="BodhiLaughton" /></a> </p>
 
 <h2 align="left">Stats</h2>
 
