@@ -25,7 +25,10 @@
 }
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p52ngqt7ct6hj35cyk3ozmsati&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31p52ngqt7ct6hj35cyk3ozmsati&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p52ngqt7ct6hj35cyk3ozmsati&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31p52ngqt7ct6hj35cyk3ozmsati&redirect=true)
+
+
+[Reach Out Over Discord!](https://discord.com/users/792096000256245770)
 
 <h2>About me</h2>
 <p align="left">
