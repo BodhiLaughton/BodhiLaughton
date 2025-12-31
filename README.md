@@ -1,4 +1,4 @@
-```yaml
+```json
 {
     "Location": {
         "Minnesota, United States"
@@ -25,7 +25,7 @@
 }
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p52ngqt7ct6hj35cyk3ozmsati&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31p52ngqt7ct6hj35cyk3ozmsati&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p52ngqt7ct6hj35cyk3ozmsati&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31p52ngqt7ct6hj35cyk3ozmsati&redirect=true)
 
 <h2>About me</h2>
 <p align="left">
@@ -40,8 +40,6 @@
 </p>
 
 <h2 align="left">Stats</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BodhiLaughton&langs_count=14&theme=dark&layout=donut)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BodhiLaughton/BodhiLaughton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/BodhiLaughton/BodhiLaughton/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
